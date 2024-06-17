@@ -11,5 +11,5 @@ The text is first preprocessed and transformed as a vector. Then, the transforme
 
 **Steps To Run**
 1)Pip Install flask,flask_WTF,nltk,joblib,pandas,scikit_learn
-2)And the type the command 
+2)And type the command 
 python app.py
